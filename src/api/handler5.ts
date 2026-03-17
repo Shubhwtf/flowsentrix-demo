@@ -1,0 +1,1 @@
+Task Input: {\n    "id":"0f33de6f-7254-41bb-a8f4-a4c44eb22c15",\n    "repo":"flowsentrix/core",\n    "cve_id":"CVE-2024-0005",\n    "pr_url":null,\n    "status":"open",\n    "llm_fix":null,\n    "file_path":"src/api/handler5.ts",\n    "severity_score":"9"\n}
