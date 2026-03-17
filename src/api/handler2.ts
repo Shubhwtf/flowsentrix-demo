@@ -1,0 +1,1 @@
+Task Input: {\"id\":\"80f01555-10fb-4a93-ac04-24abfe61596f\",\"repo\":\"flowsentrix/core\",\"cve_id\":\"CVE-2024-0002\",\"pr_url\":null,\"status\":\"open\",\"llm_fix\":null,\"file_path\":\"src/api/handler2.ts\",\"severity_score\":\"9\"}
