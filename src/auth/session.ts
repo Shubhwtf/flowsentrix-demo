@@ -1,0 +1,1 @@
+Remote code execution via unsanitized input in session handler. CVSS: 9.1
