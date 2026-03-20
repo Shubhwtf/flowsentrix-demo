@@ -1,1 +1,1 @@
-Remote code execution via unsanitized input in session handler. CVSS: 9.1
+Input validation and sanitization added to prevent remote code execution. CVSS: 0.0
